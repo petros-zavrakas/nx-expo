@@ -58,36 +58,12 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".nx/workspace-data/project-graph.json",
-        "hash": "8897195441476424998"
+        "file": ".nx/workspace-data/eslint-2654242865465226088.hash",
+        "hash": "16608719694398027890"
       },
       {
-        "file": "eslint.config.mjs",
-        "hash": "3462096019013144053"
-      },
-      {
-        "file": ".nx/workspace-data/tsc-2568428459166798129.hash",
-        "hash": "4135806578506483425"
-      },
-      {
-        "file": ".nx/cache/4611065484603179858-logs.tar.gz",
-        "hash": "14704237131838103082"
-      },
-      {
-        "file": ".nx/workspace-data/cypress-8161926102631362384.hash",
-        "hash": "9999867750755482586"
-      },
-      {
-        "file": "babel.config.json",
-        "hash": "5546405625092116747"
-      },
-      {
-        "file": "LICENSE",
-        "hash": "17389112285793792197"
-      },
-      {
-        "file": "jest.config.ts",
-        "hash": "6870352021923392442"
+        "file": ".nx/workspace-data/240F2347-BAD7-59F0-8C1E-2148BED6F2A5.db-wal",
+        "hash": "15750149947557745325"
       },
       {
         "file": "jest.preset.js",
@@ -95,99 +71,111 @@
       },
       {
         "file": ".nx/workspace-data/file-map.json",
-        "hash": "14139406331795269388"
-      },
-      {
-        "file": "README.md",
-        "hash": "17950664336858247971"
-      },
-      {
-        "file": "apps/.DS_Store",
-        "hash": "18246605626331239269"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/4611065484603179858",
-        "hash": "10270349522042045254"
-      },
-      {
-        "file": ".nx/workspace-data/parsed-lock-file.json",
-        "hash": "16995632845769104537"
-      },
-      {
-        "file": ".nx/cache/run.json",
-        "hash": "12390435353596846400"
-      },
-      {
-        "file": ".nx/workspace-data/expo-15269822403136162141.hash",
-        "hash": "4799089732108216469"
-      },
-      {
-        "file": ".nx/workspace-data/jest-7930610538513362720.hash",
-        "hash": "13987248676624154035"
-      },
-      {
-        "file": ".git/index",
-        "hash": "1630920063245961522"
-      },
-      {
-        "file": "yarn.lock",
-        "hash": "11980565419802987974"
-      },
-      {
-        "file": "tsconfig.base.json",
-        "hash": "18132073024976155609"
+        "hash": "18381570852488168965"
       },
       {
         "file": ".nx/workspace-data/240F2347-BAD7-59F0-8C1E-2148BED6F2A5.db",
         "hash": "6240709564311096908"
       },
       {
-        "file": ".nx/workspace-data/lockfile.hash",
-        "hash": "283535039962963509"
+        "file": "eslint.config.mjs",
+        "hash": "3462096019013144053"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "18132073024976155609"
       },
       {
         "file": ".nx/workspace-data/tsconfig-files.hash",
         "hash": "7961465013003317604"
       },
       {
+        "file": ".nx/workspace-data/project-graph.json",
+        "hash": "5742088416406648577"
+      },
+      {
         "file": "package.json",
         "hash": "473346146589212897"
       },
       {
-        "file": ".nx/workspace-data/source-maps.json",
-        "hash": "17277467488904750429"
+        "file": "jest.config.ts",
+        "hash": "6870352021923392442"
+      },
+      {
+        "file": "apps/.DS_Store",
+        "hash": "18246605626331239269"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/3687237366999467847",
+        "hash": "15499597749207269752"
+      },
+      {
+        "file": ".git/index",
+        "hash": "4493530325145751497"
+      },
+      {
+        "file": ".nx/workspace-data/expo-15269822403136162141.hash",
+        "hash": "7097335836531618455"
+      },
+      {
+        "file": "yarn.lock",
+        "hash": "11980565419802987974"
       },
       {
         "file": "nx.json",
         "hash": "12945822094750810518"
       },
       {
-        "file": ".git/index.lock",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": ".nx/workspace-data/240F2347-BAD7-59F0-8C1E-2148BED6F2A5.db-shm",
-        "hash": "5154131373130378210"
-      },
-      {
         "file": ".DS_Store",
         "hash": "7461085925869369605"
       },
       {
-        "file": ".nx/workspace-data/240F2347-BAD7-59F0-8C1E-2148BED6F2A5.db-wal",
-        "hash": "13561370960172087015"
+        "file": ".nx/cache/3687237366999467847-logs.tar.gz",
+        "hash": "9001219603970747647"
       },
       {
         "file": "tsconfig.json",
         "hash": "11184991335553442773"
       },
       {
-        "file": ".nx/workspace-data/eslint-2654242865465226088.hash",
-        "hash": "14332106232411816428"
+        "file": ".nx/workspace-data/cypress-8161926102631362384.hash",
+        "hash": "9999867750755482586"
+      },
+      {
+        "file": ".nx/workspace-data/240F2347-BAD7-59F0-8C1E-2148BED6F2A5.db-shm",
+        "hash": "1985760137928098405"
+      },
+      {
+        "file": ".nx/workspace-data/source-maps.json",
+        "hash": "17277467488904750429"
+      },
+      {
+        "file": ".nx/cache/run.json",
+        "hash": "6680036681557832654"
+      },
+      {
+        "file": ".nx/workspace-data/jest-7930610538513362720.hash",
+        "hash": "8136392138773892708"
+      },
+      {
+        "file": "README.md",
+        "hash": "17950664336858247971"
+      },
+      {
+        "file": ".nx/workspace-data/tsc-2568428459166798129.hash",
+        "hash": "4135806578506483425"
+      },
+      {
+        "file": "LICENSE",
+        "hash": "17389112285793792197"
       },
       {
         "file": "tools/scripts/eas-build-post-install.mjs",
         "hash": "18390423807559123090"
+      },
+      {
+        "file": "babel.config.json",
+        "hash": "5546405625092116747"
       }
     ],
     "projectFileMap": {
@@ -234,63 +222,6 @@
         {
           "file": "apps/default-tenant-e2e/tsconfig.json",
           "hash": "13460915489313561609"
-        }
-      ],
-      "@csb/csb-shared": [
-        {
-          "file": "libs/csb-shared/.babelrc.js",
-          "hash": "2473225887943671958"
-        },
-        {
-          "file": "libs/csb-shared/README.md",
-          "hash": "14878555799265141890"
-        },
-        {
-          "file": "libs/csb-shared/dist/tsconfig.lib.tsbuildinfo",
-          "hash": "419263262405742554"
-        },
-        {
-          "file": "libs/csb-shared/eslint.config.mjs",
-          "hash": "4549399322512926610",
-          "deps": [
-            "npm:@nx/eslint-plugin"
-          ]
-        },
-        {
-          "file": "libs/csb-shared/package.json",
-          "hash": "6103014717458347590",
-          "deps": [
-            "npm:react",
-            "npm:react-native"
-          ]
-        },
-        {
-          "file": "libs/csb-shared/src/index.ts",
-          "hash": "2581353720810472524"
-        },
-        {
-          "file": "libs/csb-shared/src/navigation/Navigation.spec.tsx",
-          "hash": "6606177901821684598",
-          "deps": [
-            "npm:react",
-            "npm:@testing-library/react-native"
-          ]
-        },
-        {
-          "file": "libs/csb-shared/src/navigation/Navigation.tsx",
-          "hash": "326427559893785563",
-          "deps": [
-            "npm:react",
-            "npm:react-native"
-          ]
-        },
-        {
-          "file": "libs/csb-shared/tsconfig.json",
-          "hash": "5093654738293008930"
-        },
-        {
-          "file": "libs/csb-shared/tsconfig.lib.json",
-          "hash": "18178644748066041812"
         }
       ],
       "default-tenant": [
@@ -639,7 +570,7 @@
         },
         {
           "file": "apps/default-tenant/src/app/App.tsx",
-          "hash": "1889460697472467403",
+          "hash": "5786748856152101010",
           "deps": [
             "npm:react-native",
             "@csb/csb-shared"
@@ -663,6 +594,63 @@
         {
           "file": "apps/default-tenant/tsconfig.spec.json",
           "hash": "16480273702684499047"
+        }
+      ],
+      "@csb/csb-shared": [
+        {
+          "file": "libs/csb-shared/.babelrc.js",
+          "hash": "2473225887943671958"
+        },
+        {
+          "file": "libs/csb-shared/README.md",
+          "hash": "14878555799265141890"
+        },
+        {
+          "file": "libs/csb-shared/dist/tsconfig.lib.tsbuildinfo",
+          "hash": "419263262405742554"
+        },
+        {
+          "file": "libs/csb-shared/eslint.config.mjs",
+          "hash": "4549399322512926610",
+          "deps": [
+            "npm:@nx/eslint-plugin"
+          ]
+        },
+        {
+          "file": "libs/csb-shared/package.json",
+          "hash": "6103014717458347590",
+          "deps": [
+            "npm:react",
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "libs/csb-shared/src/index.ts",
+          "hash": "2581353720810472524"
+        },
+        {
+          "file": "libs/csb-shared/src/navigation/Navigation.spec.tsx",
+          "hash": "6606177901821684598",
+          "deps": [
+            "npm:react",
+            "npm:@testing-library/react-native"
+          ]
+        },
+        {
+          "file": "libs/csb-shared/src/navigation/Navigation.tsx",
+          "hash": "1799746620705256754",
+          "deps": [
+            "npm:react",
+            "npm:react-native"
+          ]
+        },
+        {
+          "file": "libs/csb-shared/tsconfig.json",
+          "hash": "5093654738293008930"
+        },
+        {
+          "file": "libs/csb-shared/tsconfig.lib.json",
+          "hash": "18178644748066041812"
         }
       ]
     }

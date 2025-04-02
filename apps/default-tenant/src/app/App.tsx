@@ -11,7 +11,7 @@ export const App = () => {
           flex: 1,
         }}
       >
-        <Text>ok yessss</Text>
+        <Text>nx - expo - app</Text>
         <Navigation />
       </SafeAreaView>
     </>

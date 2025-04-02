@@ -1,8 +1,8 @@
 {
   "run": {
     "command": "nx start default-tenant",
-    "startTime": "2025-04-02T13:37:47.342Z",
-    "endTime": "2025-04-02T13:38:12.216Z",
+    "startTime": "2025-04-02T13:54:35.329Z",
+    "endTime": "2025-04-02T13:54:38.352Z",
     "inner": false
   },
   "tasks": [
@@ -10,9 +10,9 @@
       "taskId": "default-tenant:start",
       "target": "start",
       "projectName": "default-tenant",
-      "hash": "4611065484603179858",
-      "startTime": "2025-04-02T13:37:47.418Z",
-      "endTime": "2025-04-02T13:38:12.214Z",
+      "hash": "3687237366999467847",
+      "startTime": "2025-04-02T13:54:35.412Z",
+      "endTime": "2025-04-02T13:54:38.350Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 0
