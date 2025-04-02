@@ -1,0 +1,17 @@
+{
+  "name": "@csb/default-tenant",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "default-tenant"
+  },
+  "scripts": {
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "expo": "~52.0.42",
+    "react": "18.3.1",
+    "react-native": "0.76.8"
+  }
+}

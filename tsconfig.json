@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/default-tenant-e2e"
+    },
+    {
+      "path": "./apps/default-tenant"
+    },
+    {
+      "path": "./libs/csb-shared"
+    }
+  ]
+}

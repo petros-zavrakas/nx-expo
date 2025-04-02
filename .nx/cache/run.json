@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx start default-tenant",
+    "startTime": "2025-04-02T13:37:47.342Z",
+    "endTime": "2025-04-02T13:38:12.216Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "default-tenant:start",
+      "target": "start",
+      "projectName": "default-tenant",
+      "hash": "4611065484603179858",
+      "startTime": "2025-04-02T13:37:47.418Z",
+      "endTime": "2025-04-02T13:38:12.214Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}
